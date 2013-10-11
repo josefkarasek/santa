@@ -14,7 +14,7 @@
 #include <sys/types.h>
 #include <sys/ipc.h>
 #include <sys/shm.h>    //shared memory
-#include <semaphore.h>  //semaphore
+#include <semaphore.h> 
 #include <sys/mman.h>   //semaphore memory mapping
 #include <sys/stat.h>
 #include <errno.h>      //chybove zpravy
